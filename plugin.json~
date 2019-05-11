@@ -1,0 +1,12 @@
+{
+    "ID":"a246dac93d45486f96b985669557846c",
+    "ActionKeyword":"d",
+    "Name":"Dict",
+    "Description":"Dictionary",
+    "Author":"Qiyu",
+    "Version":"1.1.1",
+    "Language":"python",
+    "Website":"https://github.com/RomanKornev/Calculator",
+    "IcoPath":"images\\app.png",
+    "ExecuteFileName":"main.py"
+}
